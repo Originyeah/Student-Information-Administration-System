@@ -13,7 +13,7 @@
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
     
-    <!-- 这是测试分支提交 -->
+    <!-- 这是测试分支提交 xx-->
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
